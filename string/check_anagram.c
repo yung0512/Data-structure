@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void)
+void check_anagram(void)
 {
   char A[] = "decimal";
   char B[] = "medical";
